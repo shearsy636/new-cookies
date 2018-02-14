@@ -1,14 +1,31 @@
 body {
   background-color: #FFE;
-  border: white;
-  border-top-width: 70px;
   color: #6b4b02;
 }
 h1 {
   font-size: 40px;
   text-align: left;
   color: black;
+  font-family: 'Homemade Apple', cursive;
+  padding-left: 15px;
+  border-top: 45px solid white;
+}
+h2{
+  font-family: 'Homemade Apple', cursive;
+  color:black;
+  padding-left: 15px;
 }
 li {
   padding: 5px 5px 5px 5px;
+}
+image {
+}
+a {
+  color: #900;
+}
+img {
+  margin: 5px 0 10px 15px;
+  padding: auto 0;
+  border: 5px solid black;
+  border-radius: 20px;
 }
