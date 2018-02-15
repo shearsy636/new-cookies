@@ -8,6 +8,7 @@ h1 {
   color: black;
   font-family: 'Homemade Apple', cursive;
   padding-left: 15px;
+  padding-top: -10px;
   border-top: 45px solid white;
 }
 h2{
